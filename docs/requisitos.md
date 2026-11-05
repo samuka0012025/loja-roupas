@@ -63,3 +63,11 @@
 + RF30 - O cliente pode recuperar a senha, caso esqueça, por meio de um link enviado por e-mail (Desejável);
 
 ## Requisitos Não Funcionais
+
++ RNF01 - O sistema deve ser responsivo para funcionar em celulares e computadores (Essencial);
+
++ RNF02 - O sistema deve guardar as senhas em hash utilizando o bcrypt (Essencial);
+
++ RNF03 - O sistema deve autenticar as rotas que exigem login com o JWT (Essencial);
+
++ RNF04 - O sistema deve carregar as páginas em até 2 segundos (Desejável);
