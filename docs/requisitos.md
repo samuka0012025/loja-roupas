@@ -32,4 +32,34 @@
 
 + RF15 - O cliente pode remover um item do carrinho (Essencial);
 
++ RF16 - O cliente pode finalizar a compra somente se estiver autenticado (Essencial);
+
++ RF17 - O cliente pode informar o endereço de entrega e informações para contato no checkout (Essencial);
+
++ RF18 - O cliente pode escolher a forma de pagamento entre Pix e cartão, de forma simulada (Essencial);
+
++ RF19 - O sistema deve conferir se os produtos do carrinho estão em estoque na quantidade solicitada antes de confirmar o pedido (Essencial);
+
++ RF20 - O sistema deve aplicar um valor fixo de frete ao pedido (Essencial);
+
++ RF21 - O sistema deve calcular o frete pelo CEP de entrega do pedido (Desejável);
+
++ RF22 - O cliente pode visualizar a confirmação do pedido com número e resumo após o pagamento (Essencial);
+
++ RF23 - O cliente pode acompanhar o status do pedido (pago, enviado, entregue) (Essencial);
+
++ RF24 - O cliente pode confirmar o recebimento do pedido (Desejável);
+
++ RF25 - O cliente pode criar uma conta (Essencial);
+
++ RF26 - O cliente pode fazer login em uma conta já cadastrada (Essencial);
+
++ RF27 - O cliente pode sair da conta (logout) (Essencial);
+
++ RF28 - O cliente pode alterar os seus dados (e-mail, senha e endereço) (Desejável);
+
++ RF29 - O cliente pode consultar o seu histórico de compras (Essencial);
+
++ RF30 - O cliente pode recuperar a senha, caso esqueça, por meio de um link enviado por e-mail (Desejável);
+
 ## Requisitos Não Funcionais
